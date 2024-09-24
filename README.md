@@ -1,5 +1,4 @@
-# DM308
-Database Management (CMPT308)
+# Database Management (CMPT308)
 Final Project, Fall 2022
 
 An SQL Amusement Park database that stores customers, employees, manufacturers, coasters, games, food, and restaurants.
